@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Currently studying CE <br>🎯 Learning more about:<br>> Embedded Systems (specificly esp32 and esp-idf development framework)<br>> Computer Architecture and Organization<br>> Django REST Framework</p>
+<p align="left">📚 Currently studying CE <br>🎯 Currently learning more about:<br>> Embedded Systems (specificly esp32 and esp-idf development framework)<br>> Computer Architecture and Organization<br>> Django REST Framework</p>
 
 ###
 
