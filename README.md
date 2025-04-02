@@ -39,3 +39,10 @@
 </div>
 
 ###
+
+<h2 align="left">Projects</h2>
+
+- 🍔 [The Krusty Krab Menu and Order Management System](https://github.com/OGuilhermeGabriel/the-krusty-krab)
+
+
+###
