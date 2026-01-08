@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Currently studying CE <br>🎯 Currently learning more about:<br>> Embedded Systems (esp-idf, risc-v ISA)<br>> Digital signal processing<br></p>
+<p align="left">📚 Currently studying CE <br>🎯 Currently learning more about:<br>> Embedded Systems (esp-idf, risc-v ISA)<br>> Digital signal processing<br>> Robotics</p>
 
 ###
 
