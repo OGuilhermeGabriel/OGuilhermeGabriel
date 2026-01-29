@@ -42,7 +42,9 @@
 
 <h2 align="left">Projects</h2>
 
-- 🍔 [The Krusty Krab Menu and Order Management System](https://github.com/OGuilhermeGabriel/the-krusty-krab)
+- 🇬🇧 | 🍔 [The Krusty Krab Menu and Order Management System](https://github.com/OGuilhermeGabriel/the-krusty-krab)
+- 🇬🇧 | 🧑‍💻 [Some embedded systems problems solved](https://github.com/OGuilhermeGabriel/embedded-systems)
+- 🇧🇷 | 📝 [Criando uma API do zero usando Django Rest Framework](https://github.com/OGuilhermeGabriel/django-rest-api-escola)
 
 
 ###
