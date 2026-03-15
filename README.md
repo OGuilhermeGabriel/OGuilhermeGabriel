@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Just a guy who are interested in low-level programming and a little bit of backend.</p>
+<p align="center">Just a guy who is interested in low-level programming and a little bit of backend.</p>
 
 ###
 
@@ -19,6 +19,10 @@
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
@@ -33,9 +37,9 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikitlearn logo"  />
 </div>
 
 ###
@@ -47,6 +51,5 @@
 - 🇬🇧 | 🧑‍💻 [Some embedded systems problems solved](https://github.com/OGuilhermeGabriel/embedded-systems)
 - 🇧🇷 | 📝 [Criando uma API do zero usando Django Rest Framework](https://github.com/OGuilhermeGabriel/django-rest-api-escola)
 - 🇧🇷 | 🐋 [Aplicação do docker para microserviços](https://github.com/OGuilhermeGabriel/docker-mservice/tree/master?tab=readme-ov-file)
-
 
 ###
