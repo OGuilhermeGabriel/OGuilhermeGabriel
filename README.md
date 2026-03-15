@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Just a guy who is interested in low-level programming and a little bit of backend.</p>
+<p align="center">Just a guy who are interested in low-level programming and a little bit of backend.</p>
 
 ###
 
