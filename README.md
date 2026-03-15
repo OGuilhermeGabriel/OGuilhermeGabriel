@@ -42,9 +42,11 @@
 
 <h2 align="left">Projects</h2>
 
+- 🇬🇧 | 🫀 [ECG Analysis Dashboard](https://github.com/OGuilhermeGabriel/ECGdashboardanalysis)
 - 🇬🇧 | 🍔 [The Krusty Krab Menu and Order Management System](https://github.com/OGuilhermeGabriel/the-krusty-krab)
 - 🇬🇧 | 🧑‍💻 [Some embedded systems problems solved](https://github.com/OGuilhermeGabriel/embedded-systems)
 - 🇧🇷 | 📝 [Criando uma API do zero usando Django Rest Framework](https://github.com/OGuilhermeGabriel/django-rest-api-escola)
+- 🇧🇷 | 🐋 [Aplicação do docker para microserviços](https://github.com/OGuilhermeGabriel/docker-mservice/tree/master?tab=readme-ov-file)
 
 
 ###
