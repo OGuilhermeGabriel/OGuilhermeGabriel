@@ -59,10 +59,6 @@ My main interest lies in **building neural networks and integrating ML models in
 
 <div align="center">
 
-![Guilherme's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OGuilhermeGabriel&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OGuilhermeGabriel&layout=compact&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=OGuilhermeGabriel&theme=tokyonight&hide_border=true)
 
 </div>
