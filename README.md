@@ -44,15 +44,18 @@ My main interest lies in **building neural networks and integrating ML models in
 
 ## 🚀 Projects
 
-| Project | Description
-|---|---
-| 🤖 [AI & Data Job Predictor (MLP)](https://github.com/ClassNeuralNetwork/MultiTask-IA-Data-Job-Prediction) | Multi-task neural network that predicts whether AI/Data job offers are statistically fair based on profile and market data 
-| ☀️ [Photovoltaic Fault Detection (CNN)](https://github.com/ClassNeuralNetwork/Classification-Fault-Detection-in-Photovoltaic-Systems) | CNN-based model for classifying defective solar modules from infrared thermographic images 
-| 🌐 [Django REST API](https://github.com/OGuilhermeGabriel/django-rest-api-escola) | RESTful API built from scratch with Django Rest Framework
-| 🫀 [ECG Analysis Dashboard](https://github.com/OGuilhermeGabriel/ECGdashboardanalysis) | Dashboard for ECG signal analysis
-| 🧑‍💻 [Embedded Systems](https://github.com/OGuilhermeGabriel/embedded-systems) | Collection of embedded systems problems and solutions
-| 🐋 [Docker Microservices](https://github.com/OGuilhermeGabriel/docker-mservice/tree/master) | Docker applied to a microservices architecture
-| 🍔 [The Krusty Krab System](https://github.com/OGuilhermeGabriel/the-krusty-krab) | Menu and order management system
+| Project | Description |
+|---|---|
+| 🤖 [AI & Data Job Predictor (MLP)](https://github.com/ClassNeuralNetwork/MultiTask-IA-Data-Job-Prediction) | Multi-task neural network that predicts whether AI/Data job offers are statistically fair based on profile and market data |
+| ☀️ [Photovoltaic Fault Detection (CNN)](https://github.com/ClassNeuralNetwork/Classification-Fault-Detection-in-Photovoltaic-Systems) | CNN-based model for classifying defective solar modules from infrared thermographic images |
+| 💬 [Book Review Sentiment Analysis (BERT)](https://github.com/ClassNeuralNetwork/Analise-de-sentimentos-de-comentarios-de-livros) | Fine-tuned BERT model for multi-class sentiment classification of book reviews, with a deployed Streamlit app |
+| 📚 [Book Recommender Chatbot](https://github.com/ClassNeuralNetwork/Chatbot-Recomendador-de-Livros) | Expert chatbot for personalized book recommendations |
+| 🌐 [Django REST API](https://github.com/OGuilhermeGabriel/django-rest-api-escola) | RESTful API built from scratch with Django Rest Framework |
+| 🫀 [ECG Analysis Dashboard](https://github.com/OGuilhermeGabriel/ECGdashboardanalysis) | Dashboard for ECG signal analysis |
+| 🧑‍💻 [Embedded Systems](https://github.com/OGuilhermeGabriel/embedded-systems) | Collection of embedded systems problems and solutions |
+| 🐋 [Docker Microservices](https://github.com/OGuilhermeGabriel/docker-mservice/tree/master) | Docker applied to a microservices architecture |
+| 🍔 [The Krusty Krab System](https://github.com/OGuilhermeGabriel/the-krusty-krab) | Menu and order management system |
+
 ---
 
 ## 📊 GitHub Stats
